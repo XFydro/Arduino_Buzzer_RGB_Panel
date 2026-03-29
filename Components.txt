@@ -1,0 +1,9 @@
+3 10kohm Potentiometers
+3 1kohm Resistors
+1 RCGB(Red-Cathode-Green-Blue) LED
+1 Arduino Uno Board
+1 Piezo alarm/buzzer
+
+Wires (colors of ur choice :3)
+
+pitches.h and pitches.c files (given in libs folder)
